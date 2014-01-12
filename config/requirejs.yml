@@ -1,0 +1,6 @@
+waitSeconds: 45
+paths:
+  'jquery': 'jquery'
+shim:
+  'jquery':
+    exports: 'jQuery'
